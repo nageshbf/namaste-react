@@ -1,0 +1,19 @@
+Hello word using HTML
+Hello word using JS
+Bring recat in code - CDN link
+App.JS => Hello word => recat
+ReactElement => Object
+createRoute => assign root in recat
+render() => put object into page => convert into HTML
+
+createElement => 3 arg => 
+1. Tag
+2. Attribute
+3. childrean => multiple => []
+
+HTML => order matter
+Root => Replace 
+Top and bottom content not impacted
+react can run on small portion on web
+React is library => not freamework
+we can make large scale app
